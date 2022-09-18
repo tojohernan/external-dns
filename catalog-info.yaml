@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: external-dns
+  annotations:
+    github.com/project-slug: tojohernan/external-dns
+spec:
+  type: other
+  lifecycle: unknown
+  owner: tojohernan
